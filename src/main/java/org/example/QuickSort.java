@@ -26,6 +26,7 @@ public class QuickSort {
         }
     }
 
+
     /*
      * Diese Methode wählt ein Pivot-Element aus und ordnet dann das Array so um, dass
      * alle Elemente kleiner als das Pivot links davon und alle größeren
