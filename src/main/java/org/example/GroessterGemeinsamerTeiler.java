@@ -1,5 +1,7 @@
 package org.example;
 
+import java.util.logging.Logger;
+
 /**
  * M232_rekursiv_ausprobieren
  * org.example
